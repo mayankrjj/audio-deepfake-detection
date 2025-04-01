@@ -1,4 +1,5 @@
 # audio-deepfake-detection
+PART-1
 
 ​Based on the Audio-Deepfake-Detection repository and recent literature, here are three promising approaches for detecting AI-generated human speech, considering real-time detection potential and applicability to real conversations:​
 
